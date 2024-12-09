@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-openai
+langchain-experimental
+neo4j
+wikipedia
+tiktoken
+yfiles-jupyter-graphs
+openai
+pydantic
+Flask
+python-dotenv
+
